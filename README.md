@@ -9,8 +9,6 @@ Set up env file then run commands:
 ```bash
 $ make docker-up
 $ make install
-$ make perm
-$ make assets
 ```
 ### APi endpoints
 Show all tasks GET:
