@@ -16,7 +16,12 @@ class TaskCollection extends ResourceCollection
     {
         return [
             'succes' => true,
-            'data' => $this->collection,
+            'data' => $this->collection->map(function($collection) {
+                return [
+                    'id' => $collection->id,
+                    'name' => $collection->name
+                ];
+            })
         ];
     }
 }
