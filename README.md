@@ -24,108 +24,63 @@ Response
     "data": [
         {
             "id": 2,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:19:35.000000Z",
-            "updated_at": "2023-08-15T13:19:35.000000Z"
+            "name": "test"
         },
         {
             "id": 3,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:20:35.000000Z",
-            "updated_at": "2023-08-15T13:20:35.000000Z"
+            "name": "test"
         },
         {
             "id": 4,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:14.000000Z",
-            "updated_at": "2023-08-15T13:24:14.000000Z"
+            "name": "test"
         },
         {
             "id": 5,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:22.000000Z",
-            "updated_at": "2023-08-15T13:24:22.000000Z"
+            "name": "test"
         },
         {
             "id": 6,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:23.000000Z",
-            "updated_at": "2023-08-15T13:24:23.000000Z"
+            "name": "test"
         },
         {
             "id": 7,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:23.000000Z",
-            "updated_at": "2023-08-15T13:24:23.000000Z"
+            "name": "test"
         },
         {
             "id": 8,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:24.000000Z",
-            "updated_at": "2023-08-15T13:24:24.000000Z"
+            "name": "test"
         },
         {
             "id": 9,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:24.000000Z",
-            "updated_at": "2023-08-15T13:24:24.000000Z"
+            "name": "test"
         },
         {
             "id": 10,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:25.000000Z",
-            "updated_at": "2023-08-15T13:24:25.000000Z"
+            "name": "test"
         },
         {
             "id": 11,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:25.000000Z",
-            "updated_at": "2023-08-15T13:24:25.000000Z"
+            "name": "test"
         },
         {
             "id": 12,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:25.000000Z",
-            "updated_at": "2023-08-15T13:24:25.000000Z"
+            "name": "test"
         },
         {
             "id": 13,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:26.000000Z",
-            "updated_at": "2023-08-15T13:24:26.000000Z"
+            "name": "test"
         },
         {
             "id": 14,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:27.000000Z",
-            "updated_at": "2023-08-15T13:24:27.000000Z"
+            "name": "test"
         },
         {
             "id": 15,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:27.000000Z",
-            "updated_at": "2023-08-15T13:24:27.000000Z"
+            "name": "test"
         },
         {
             "id": 16,
-            "name": "test",
-            "description": "dsd",
-            "created_at": "2023-08-15T13:24:28.000000Z",
-            "updated_at": "2023-08-15T13:24:28.000000Z"
+            "name": "test"
         }
     ],
     "links": {
@@ -163,7 +118,7 @@ Response
         "path": "https://localhost/api/tasks",
         "per_page": 15,
         "to": 15,
-        "total": 24
+        "total": 25
     }
 }
 ```
